@@ -1,0 +1,226 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3f4f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Main Content */
+main {
+    padding: 2rem;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #3705ee !important;
+}
+
+.navbar .navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: #d9d9d9;
+}
+
+.navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+/* Form Styles */
+form {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: linear-gradient(145deg, #096df0, #0851d8);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form input, form select, form button {
+    display: block;
+    width: 100%;
+    margin: 0.75rem 0;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form input[type="file"] {
+    padding: 0.5rem;
+}
+
+form input:focus, form select:focus, button[type="submit"]:focus {
+    outline: none;
+    border-color: #0851d8;
+    box-shadow: 0 0 5px rgba(8, 81, 216, 0.5);
+}
+
+button[type="submit"] {
+    background-color: #0851d8;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #063fa5;
+}
+
+/* Table Styles */
+.table {
+    width: 80%;
+    margin: 2rem auto;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    text-transform: capitalize;
+}
+
+.table th {
+    background-color: #0851d8;
+    color: #fff;
+}
+
+.table .badge {
+    font-size: 0.875rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+}
+
+.badge-success {
+    background-color: rgb(16, 223, 16);
+    color: #fff;
+}
+
+.badge-secondary {
+    background-color: rgb(30, 16, 221);
+    color: #fff;
+}
+
+/* Profile Section */
+.profile-img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-bottom: 1rem;
+}
+
+/* Page Titles */
+h1, h2 {
+    color: #0851d8;
+}
+
+h1.text-center {
+    margin-top: 2rem;
+}
+
+/* Links */
+a {
+    color: #0851d8;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #063fa5;
+    text-decoration: underline;
+}
+
+/* Flash Messages */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.success {
+    background-color: #28a745;
+}
+
+.error {
+    background-color: #dc3545;
+}
+
+.warning {
+    background-color: #ffc107;
+    color: #333;
+}
+
+.info {
+    background-color: #17a2b8;
+}
+
+/* Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-5 {
+    margin-top: 3rem;
+}
+
+.mb-5 {
+    margin-bottom: 3rem;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+
+    .navbar {
+        padding: 0.5rem;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 0.9rem;
+    }
+
+    form {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        padding: 0 0.5rem;
+    }
+
+    h1, h2 {
+        font-size: 1.5rem;
+    }
+}

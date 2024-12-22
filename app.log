@@ -1,0 +1,1382 @@
+2024-12-22 13:45:54,418 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 13:45:54,421 INFO: Upload directory already exists at static/uploads.
+2024-12-22 13:45:54,447 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 13:45:54,447 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 13:45:54,449 INFO:  * Restarting with stat
+2024-12-22 13:45:55,101 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 13:45:55,101 INFO: Upload directory already exists at static/uploads.
+2024-12-22 13:45:55,120 WARNING:  * Debugger is active!
+2024-12-22 13:45:55,124 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 13:46:00,496 INFO: Redirecting to login page.
+2024-12-22 13:46:00,513 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:00] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 13:46:00,559 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:00] "[33mGET /login/ HTTP/1.1[0m" 404 -
+2024-12-22 13:46:20,914 INFO: Redirecting to login page.
+2024-12-22 13:46:20,916 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:20] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 13:46:20,950 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:20] "GET /login HTTP/1.1" 200 -
+2024-12-22 13:46:20,987 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:20] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 13:46:21,004 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:21] "[33mGET /SALVADOR_JANDA_3AroutesstaticuploadsMononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 13:46:28,232 INFO: Admin exists: False
+2024-12-22 13:46:28,237 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:28] "GET /register HTTP/1.1" 200 -
+2024-12-22 13:46:28,268 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 13:46:52,567 INFO: Admin exists: False
+2024-12-22 13:46:52,569 INFO: Registering user: laurence@gmail.com, role: user
+2024-12-22 13:46:52,573 INFO: Validating password strength.
+2024-12-22 13:46:52,573 INFO: Password is strong.
+2024-12-22 13:46:53,147 INFO: User laurence@gmail.com registered successfully.
+2024-12-22 13:46:53,147 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:53] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 13:46:53,163 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:53] "GET /login HTTP/1.1" 200 -
+2024-12-22 13:46:53,206 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:53] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 13:46:53,222 INFO: 127.0.0.1 - - [22/Dec/2024 13:46:53] "[33mGET /SALVADOR_JANDA_3AroutesstaticuploadsMononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 13:47:11,132 INFO: 127.0.0.1 - - [22/Dec/2024 13:47:11] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2024-12-22 13:47:11,323 INFO: 127.0.0.1 - - [22/Dec/2024 13:47:11] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-22 13:47:11,327 INFO: 127.0.0.1 - - [22/Dec/2024 13:47:11] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-22 13:47:11,369 INFO: 127.0.0.1 - - [22/Dec/2024 13:47:11] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-22 13:47:11,404 INFO: 127.0.0.1 - - [22/Dec/2024 13:47:11] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-22 14:06:50,984 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 14:06:50,992 INFO: Upload directory already exists at static/uploads.
+2024-12-22 14:06:51,032 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 14:06:51,032 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 14:06:51,032 INFO:  * Restarting with stat
+2024-12-22 14:06:51,615 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 14:06:51,617 INFO: Upload directory already exists at static/uploads.
+2024-12-22 14:06:51,629 WARNING:  * Debugger is active!
+2024-12-22 14:06:51,636 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 14:06:58,344 INFO: Redirecting to login page.
+2024-12-22 14:06:58,344 INFO: 127.0.0.1 - - [22/Dec/2024 14:06:58] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 14:06:58,379 INFO: 127.0.0.1 - - [22/Dec/2024 14:06:58] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:06:58,429 INFO: 127.0.0.1 - - [22/Dec/2024 14:06:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:07:11,947 INFO: Attempting login for user: laurence@gmail.com
+2024-12-22 14:07:12,409 WARNING: Failed login attempt for user: laurence@gmail.com
+2024-12-22 14:07:12,409 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:12] "POST /login HTTP/1.1" 200 -
+2024-12-22 14:07:12,427 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:07:22,960 INFO: Admin exists: False
+2024-12-22 14:07:22,969 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:22] "GET /register HTTP/1.1" 200 -
+2024-12-22 14:07:22,991 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:07:36,472 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:07:36,513 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:07:40,537 INFO: Admin exists: False
+2024-12-22 14:07:40,541 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:40] "GET /register HTTP/1.1" 200 -
+2024-12-22 14:07:40,562 INFO: 127.0.0.1 - - [22/Dec/2024 14:07:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:16,270 INFO: Admin exists: False
+2024-12-22 14:08:16,270 INFO: Registering user: mapama@my.cspc.edu.ph, role: admin
+2024-12-22 14:08:16,270 INFO: Validating password strength.
+2024-12-22 14:08:16,270 INFO: Password is strong.
+2024-12-22 14:08:16,805 INFO: User mapama@my.cspc.edu.ph registered successfully.
+2024-12-22 14:08:16,806 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:16] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 14:08:16,812 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:16] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:08:16,846 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:16] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:27,156 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 14:08:27,629 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 14:08:27,630 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 14:08:27,636 INFO: Loading user with ID: 3
+2024-12-22 14:08:27,640 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:08:27,672 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:27] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:08:27,708 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:27,708 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:27] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 14:08:32,793 INFO: Loading user with ID: 3
+2024-12-22 14:08:32,802 INFO: Admin mapama@my.cspc.edu.ph accessed 'delete_user' for user ID 1 (username: Haru).
+2024-12-22 14:08:32,808 INFO: User ID 1 (username: Haru) was deleted by admin mapama@my.cspc.edu.ph.
+2024-12-22 14:08:32,809 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:32] "[32mGET /admin/delete_user/1 HTTP/1.1[0m" 302 -
+2024-12-22 14:08:32,875 INFO: Loading user with ID: 3
+2024-12-22 14:08:32,876 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:08:32,889 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:32] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:08:32,924 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:32] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:32,951 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:32] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 14:08:38,241 INFO: Loading user with ID: 3
+2024-12-22 14:08:38,245 INFO: Admin mapama@my.cspc.edu.ph accessed 'delete_user' for user ID 2 (username: laurence@gmail.com).
+2024-12-22 14:08:38,259 INFO: User ID 2 (username: laurence@gmail.com) was deleted by admin mapama@my.cspc.edu.ph.
+2024-12-22 14:08:38,267 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:38] "[32mGET /admin/delete_user/2 HTTP/1.1[0m" 302 -
+2024-12-22 14:08:38,283 INFO: Loading user with ID: 3
+2024-12-22 14:08:38,284 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:08:38,288 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:38] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:08:38,322 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:38,326 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:38] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 14:08:39,803 INFO: Loading user with ID: 3
+2024-12-22 14:08:39,830 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:39] "GET /edit_profile HTTP/1.1" 200 -
+2024-12-22 14:08:39,854 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:08:39,872 INFO: 127.0.0.1 - - [22/Dec/2024 14:08:39] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 14:09:10,042 INFO: Loading user with ID: 3
+2024-12-22 14:09:10,043 INFO: User mapama@my.cspc.edu.ph is editing their profile.
+2024-12-22 14:09:10,206 INFO: Profile changes saved successfully for user mapama@my.cspc.edu.ph.
+2024-12-22 14:09:10,208 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:10] "[32mPOST /edit_profile HTTP/1.1[0m" 302 -
+2024-12-22 14:09:10,214 INFO: Loading user with ID: 3
+2024-12-22 14:09:10,221 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:09:10,227 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:10] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:09:10,257 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:09:10,259 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:10] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 14:09:17,897 INFO: Loading user with ID: 3
+2024-12-22 14:09:17,900 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:17] "GET /edit_profile HTTP/1.1" 200 -
+2024-12-22 14:09:17,921 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:09:17,934 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:17] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 14:09:27,322 INFO: Loading user with ID: 3
+2024-12-22 14:09:27,324 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:09:27,326 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:27] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:09:27,353 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:09:27,366 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:27] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 14:09:35,818 INFO: Loading user with ID: 3
+2024-12-22 14:09:35,820 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 14:09:35,821 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 14:09:35,824 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:35] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 14:09:35,834 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:09:35,868 INFO: 127.0.0.1 - - [22/Dec/2024 14:09:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:30:19,286 INFO: 127.0.0.1 - - [22/Dec/2024 14:30:19] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:30:19,442 INFO: 127.0.0.1 - - [22/Dec/2024 14:30:19] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:30:19,586 INFO: 127.0.0.1 - - [22/Dec/2024 14:30:19] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:30:28,223 INFO: 127.0.0.1 - - [22/Dec/2024 14:30:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:30:28,261 INFO: 127.0.0.1 - - [22/Dec/2024 14:30:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:33:11,078 INFO: 127.0.0.1 - - [22/Dec/2024 14:33:11] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:33:11,101 INFO: 127.0.0.1 - - [22/Dec/2024 14:33:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:38:15,169 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 14:38:15,175 INFO: Upload directory already exists at static/uploads.
+2024-12-22 14:38:15,234 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 14:38:15,234 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 14:38:15,237 INFO:  * Restarting with stat
+2024-12-22 14:38:16,787 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 14:38:16,795 INFO: Upload directory already exists at static/uploads.
+2024-12-22 14:38:16,833 WARNING:  * Debugger is active!
+2024-12-22 14:38:16,855 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 14:38:23,927 INFO: Redirecting to login page.
+2024-12-22 14:38:23,927 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:23] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 14:38:23,980 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:23] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:38:24,051 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:38:26,755 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:26] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:38:26,780 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:38:27,745 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:27] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:38:27,768 INFO: 127.0.0.1 - - [22/Dec/2024 14:38:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:55:39,340 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:39] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:55:39,365 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:55:39,383 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:39] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:55:50,261 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 14:55:51,824 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 14:55:51,824 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 14:55:51,840 INFO: Loading user with ID: 3
+2024-12-22 14:55:51,848 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 14:55:51,884 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:51] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 14:55:51,957 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:51] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 14:55:51,967 INFO: 127.0.0.1 - - [22/Dec/2024 14:55:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 14:56:06,012 INFO: Loading user with ID: 3
+2024-12-22 14:56:06,017 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 14:56:06,026 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 14:56:06,026 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 14:56:06,041 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:06] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:56:06,085 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:56:06,112 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:06] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:56:20,431 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:20] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:56:20,461 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:20] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:56:20,485 INFO: 127.0.0.1 - - [22/Dec/2024 14:56:20] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:06,902 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:06] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:06,934 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:06,966 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:06] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:07,815 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:07] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:07,852 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:07] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:07,886 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:07] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,415 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:08,453 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,488 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,570 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:08,602 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,640 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,727 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:08,752 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,777 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,928 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:08,968 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:08,996 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:08] "[33mGET /routes/static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:36,185 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:36,212 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:36,260 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:36] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:37,707 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:37] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:37,737 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:37,776 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:37] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:38,194 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:38,223 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:38,258 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:38,887 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:38,936 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:38,983 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:38] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,018 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:39,056 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,084 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,243 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:39,287 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,329 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,458 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:39,494 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:39,549 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:39] "[33mGET /routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:56,298 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:56] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:56,319 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:56] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:56,358 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:56] "[33mGET /Pama_DeSilvaroutesstaticuploadsMononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:57,090 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:57,118 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:57,139 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "[33mGET /Pama_DeSilvaroutesstaticuploadsMononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:57:57,299 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:57:57,330 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:57:57,427 INFO: 127.0.0.1 - - [22/Dec/2024 14:57:57] "[33mGET /Pama_DeSilvaroutesstaticuploadsMononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:12,321 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:12] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:12,337 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:12] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:12,360 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:12] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,153 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,176 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,201 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,293 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,320 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,344 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,435 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,456 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,482 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,611 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,632 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,662 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,749 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,777 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,808 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,904 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:13,935 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:13,962 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:13] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,047 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:14,072 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,095 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,220 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:14,238 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,271 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,453 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:14,485 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:14,523 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:14] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,051 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:35,086 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,118 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,515 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:35,550 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,583 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,652 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:35,682 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,710 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,797 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:35,821 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,851 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,934 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:35,966 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:35,990 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:35] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 14:58:36,091 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 14:58:36,119 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 14:58:36,144 INFO: 127.0.0.1 - - [22/Dec/2024 14:58:36] "[33mGET /Pama_DeSilva/routes/static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:08,912 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:08] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:08,933 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:08,983 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:08] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:09,707 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:09,755 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:09,781 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:09,835 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:09,864 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:09,890 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:09,968 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:09,993 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:09] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:10,030 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:10,094 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:10,113 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:10,133 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:00:10,311 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:00:10,332 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:00:10,365 INFO: 127.0.0.1 - - [22/Dec/2024 15:00:10] "[33mGET /static/images/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:03:40,661 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:40] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:03:40,682 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:40] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:03:40,750 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:40] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:03:41,782 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:41] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:03:41,808 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:41] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:03:41,856 INFO: 127.0.0.1 - - [22/Dec/2024 15:03:41] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,003 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:28,028 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,061 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,794 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:28,826 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,858 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,939 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:28,959 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:28,979 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:28] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,087 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:29,102 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,135 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,215 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:29,235 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,276 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,359 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:29,392 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,425 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,493 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:29,518 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,540 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,705 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:06:29,748 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:06:29,778 INFO: 127.0.0.1 - - [22/Dec/2024 15:06:29] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:07:13,571 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:13] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:07:13,610 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:13] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:07:13,653 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:13] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,360 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:07:14,386 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,411 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,532 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:07:14,558 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,593 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,745 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:07:14,784 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:07:14,808 INFO: 127.0.0.1 - - [22/Dec/2024 15:07:14] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:23,271 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:23] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:23,297 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:23] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:23,321 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:23] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,117 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,155 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,188 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,289 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,320 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,340 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,456 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,483 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,503 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,639 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,688 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,706 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,786 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,810 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,836 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,954 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:24,973 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:24,999 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:24] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:25,130 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:25,150 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:25,170 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:25,347 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:25,388 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:25,420 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:25] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:08:30,326 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:30] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:08:30,361 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:30] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:08:30,380 INFO: 127.0.0.1 - - [22/Dec/2024 15:08:30] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:16,499 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:16] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:16,529 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:16] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:16,549 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:16] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,213 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:17,259 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,289 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,375 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:17,402 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,440 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,538 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:17,554 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,587 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,745 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:17,785 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:17,812 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:17] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:19,577 INFO: Admin exists: True
+2024-12-22 15:09:19,584 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:19] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:09:19,636 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:20,687 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:20] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:09:20,733 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:20] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:09:20,767 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:20] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:09:31,409 INFO: Admin exists: True
+2024-12-22 15:09:31,423 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:31] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:09:31,455 INFO: 127.0.0.1 - - [22/Dec/2024 15:09:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:12:41,368 INFO: Admin exists: True
+2024-12-22 15:12:41,476 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:41] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:12:41,511 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:12:43,654 INFO: Admin exists: True
+2024-12-22 15:12:43,662 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:43] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:12:43,703 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:12:45,430 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:45] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:12:45,459 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:45] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:12:45,513 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:45] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:12:48,221 INFO: Admin exists: True
+2024-12-22 15:12:48,226 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:48] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:12:48,291 INFO: 127.0.0.1 - - [22/Dec/2024 15:12:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:13:21,226 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 15:13:21,226 INFO: Upload directory already exists at static/uploads.
+2024-12-22 15:13:21,314 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 15:13:21,314 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 15:13:21,318 INFO:  * Restarting with stat
+2024-12-22 15:13:22,454 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 15:13:22,454 INFO: Upload directory already exists at static/uploads.
+2024-12-22 15:13:22,466 WARNING:  * Debugger is active!
+2024-12-22 15:13:22,466 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 15:13:26,746 INFO: Redirecting to login page.
+2024-12-22 15:13:26,746 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:26] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 15:13:26,755 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:26] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:13:26,804 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:26] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:13:26,837 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:26] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:13:29,711 INFO: Admin exists: True
+2024-12-22 15:13:29,727 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:29] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:13:29,765 INFO: 127.0.0.1 - - [22/Dec/2024 15:13:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:14:24,332 INFO: Admin exists: True
+2024-12-22 15:14:24,371 INFO: 127.0.0.1 - - [22/Dec/2024 15:14:24] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:14:24,400 INFO: 127.0.0.1 - - [22/Dec/2024 15:14:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:14:24,408 INFO: 127.0.0.1 - - [22/Dec/2024 15:14:24] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:14:52,580 INFO: Admin exists: True
+2024-12-22 15:14:52,606 INFO: 127.0.0.1 - - [22/Dec/2024 15:14:52] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:14:52,636 INFO: 127.0.0.1 - - [22/Dec/2024 15:14:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:15:48,692 INFO: Admin exists: True
+2024-12-22 15:15:48,698 INFO: 127.0.0.1 - - [22/Dec/2024 15:15:48] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:15:48,736 INFO: 127.0.0.1 - - [22/Dec/2024 15:15:48] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:15:48,765 INFO: 127.0.0.1 - - [22/Dec/2024 15:15:48] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:16:57,456 INFO: Admin exists: True
+2024-12-22 15:16:57,579 INFO: 127.0.0.1 - - [22/Dec/2024 15:16:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:16:57,613 INFO: 127.0.0.1 - - [22/Dec/2024 15:16:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:16:57,623 INFO: 127.0.0.1 - - [22/Dec/2024 15:16:57] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:17:02,214 INFO: Admin exists: True
+2024-12-22 15:17:02,214 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:02] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:17:02,235 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:02] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:17:02,258 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:02] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:17:02,950 INFO: Admin exists: True
+2024-12-22 15:17:02,955 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:02] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:17:03,004 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:17:03,036 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:17:03,083 INFO: Admin exists: True
+2024-12-22 15:17:03,083 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:17:03,131 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:17:03,139 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:17:03,310 INFO: Admin exists: True
+2024-12-22 15:17:03,310 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:17:03,365 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:17:03,398 INFO: 127.0.0.1 - - [22/Dec/2024 15:17:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:03,160 INFO: Admin exists: True
+2024-12-22 15:18:03,173 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:03] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:03,198 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:03,209 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:04,338 INFO: Admin exists: True
+2024-12-22 15:18:04,338 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:04] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:04,377 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:04] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:04,386 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:04] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:05,865 INFO: Admin exists: True
+2024-12-22 15:18:05,870 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:05] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:05,895 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:05] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:05,895 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:05] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,446 INFO: Admin exists: True
+2024-12-22 15:18:06,457 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:06,488 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,493 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,613 INFO: Admin exists: True
+2024-12-22 15:18:06,626 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:06,661 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,687 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,831 INFO: Admin exists: True
+2024-12-22 15:18:06,836 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:06,881 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:06,911 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:06] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:30,464 INFO: Admin exists: True
+2024-12-22 15:18:30,512 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:30] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:30,534 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:30] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:30,543 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:30] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:38,558 INFO: Admin exists: True
+2024-12-22 15:18:38,615 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:38,658 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:38,673 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:38] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:18:55,929 INFO: Admin exists: True
+2024-12-22 15:18:55,966 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:55] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:18:55,991 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:18:56,011 INFO: 127.0.0.1 - - [22/Dec/2024 15:18:56] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:19:02,266 INFO: Admin exists: True
+2024-12-22 15:19:02,314 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:02] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:19:02,330 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:02] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:19:02,345 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:02] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:19:11,165 INFO: Admin exists: True
+2024-12-22 15:19:11,211 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:11] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:19:11,241 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:11] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:19:11,260 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:11] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:19:25,696 INFO: Admin exists: True
+2024-12-22 15:19:25,744 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:25] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:19:25,770 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:19:25,779 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:25] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:19:55,003 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:55] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:19:55,037 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:19:55,073 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:55] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:19:56,712 INFO: Admin exists: True
+2024-12-22 15:19:56,717 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:56] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:19:56,755 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:56] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:19:56,774 INFO: 127.0.0.1 - - [22/Dec/2024 15:19:56] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:20:11,683 INFO: Admin exists: True
+2024-12-22 15:20:11,707 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:11] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:20:11,740 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:11] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:20:11,751 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:11] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:20:22,710 INFO: Admin exists: True
+2024-12-22 15:20:22,718 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:22] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:20:22,758 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:22] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:20:22,770 INFO: 127.0.0.1 - - [22/Dec/2024 15:20:22] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:21:33,832 INFO: Admin exists: True
+2024-12-22 15:21:33,882 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:21:33,914 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:21:33,943 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:33] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:21:34,691 INFO: Admin exists: True
+2024-12-22 15:21:34,691 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:21:34,718 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:21:34,732 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:21:34,829 INFO: Admin exists: True
+2024-12-22 15:21:34,829 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:21:34,857 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:21:34,877 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:21:34,983 INFO: Admin exists: True
+2024-12-22 15:21:34,983 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:21:35,015 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:21:35,023 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:35] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:21:35,182 INFO: Admin exists: True
+2024-12-22 15:21:35,198 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:35] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:21:35,218 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:21:35,245 INFO: 127.0.0.1 - - [22/Dec/2024 15:21:35] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:22:02,953 INFO: Admin exists: True
+2024-12-22 15:22:03,002 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:03] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:22:03,026 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:22:03,034 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:22:08,609 INFO: Admin exists: True
+2024-12-22 15:22:08,657 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:08] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:22:08,683 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:22:08,696 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:08] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:22:28,123 INFO: Admin exists: True
+2024-12-22 15:22:28,184 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:28] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:22:28,214 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:22:28,231 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:28] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:22:32,919 INFO: Admin exists: True
+2024-12-22 15:22:32,951 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:32] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:22:32,985 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:32] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:22:33,007 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:33] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:22:43,220 INFO: Admin exists: True
+2024-12-22 15:22:43,253 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:43] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:22:43,284 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:43] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:22:43,298 INFO: 127.0.0.1 - - [22/Dec/2024 15:22:43] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:23:06,524 INFO: Admin exists: True
+2024-12-22 15:23:06,562 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:23:06,588 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:23:06,595 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:06] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:23:27,106 INFO: Admin exists: True
+2024-12-22 15:23:27,153 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:27] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:23:27,192 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:27] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:23:27,201 INFO: 127.0.0.1 - - [22/Dec/2024 15:23:27] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:24:39,774 INFO: Admin exists: True
+2024-12-22 15:24:39,822 INFO: 127.0.0.1 - - [22/Dec/2024 15:24:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:24:39,853 INFO: 127.0.0.1 - - [22/Dec/2024 15:24:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:24:39,878 INFO: 127.0.0.1 - - [22/Dec/2024 15:24:39] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:25:39,668 INFO: Admin exists: True
+2024-12-22 15:25:39,723 INFO: 127.0.0.1 - - [22/Dec/2024 15:25:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:25:39,739 INFO: 127.0.0.1 - - [22/Dec/2024 15:25:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:25:39,755 INFO: 127.0.0.1 - - [22/Dec/2024 15:25:39] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:26:37,103 INFO: Admin exists: True
+2024-12-22 15:26:37,174 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:37] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:26:37,195 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:26:37,206 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:37] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:26:39,278 INFO: Admin exists: True
+2024-12-22 15:26:39,287 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:26:39,322 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:26:39,326 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:39] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:26:39,989 INFO: Admin exists: True
+2024-12-22 15:26:39,996 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:26:40,014 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:40] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:26:40,032 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:40] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:26:40,205 INFO: Admin exists: True
+2024-12-22 15:26:40,205 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:40] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:26:40,231 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:40] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:26:40,263 INFO: 127.0.0.1 - - [22/Dec/2024 15:26:40] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:27:23,397 INFO: Admin exists: True
+2024-12-22 15:27:23,422 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:23] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:27:23,453 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:23] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:27:23,470 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:23] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:27:34,752 INFO: Admin exists: True
+2024-12-22 15:27:34,774 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:27:34,798 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:27:34,806 INFO: 127.0.0.1 - - [22/Dec/2024 15:27:34] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:28:23,843 INFO: Admin exists: True
+2024-12-22 15:28:23,872 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:23] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:28:23,896 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:23] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:28:23,917 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:23] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:28:38,882 INFO: Admin exists: True
+2024-12-22 15:28:38,933 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:28:38,965 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:28:38,995 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:38] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:28:59,117 INFO: Admin exists: True
+2024-12-22 15:28:59,120 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:59] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:28:59,159 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:59] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:28:59,179 INFO: 127.0.0.1 - - [22/Dec/2024 15:28:59] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:29:17,659 INFO: Admin exists: True
+2024-12-22 15:29:17,697 INFO: 127.0.0.1 - - [22/Dec/2024 15:29:17] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:29:17,724 INFO: 127.0.0.1 - - [22/Dec/2024 15:29:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:29:17,736 INFO: 127.0.0.1 - - [22/Dec/2024 15:29:17] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:30:44,550 INFO: Admin exists: True
+2024-12-22 15:30:44,590 INFO: 127.0.0.1 - - [22/Dec/2024 15:30:44] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:30:44,610 INFO: 127.0.0.1 - - [22/Dec/2024 15:30:44] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:30:44,623 INFO: 127.0.0.1 - - [22/Dec/2024 15:30:44] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:06,632 INFO: Admin exists: True
+2024-12-22 15:31:06,671 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:06,689 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:06,699 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:06] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:07,756 INFO: Admin exists: True
+2024-12-22 15:31:07,756 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:07] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:07,787 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:07] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:07,805 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:07] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:08,359 INFO: Admin exists: True
+2024-12-22 15:31:08,364 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:08,401 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:08,404 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:08,523 INFO: Admin exists: True
+2024-12-22 15:31:08,523 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:08,562 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:08,582 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:08] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:16,600 INFO: Admin exists: True
+2024-12-22 15:31:16,615 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:16] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:16,633 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:16] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:16,646 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:16] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:17,362 INFO: Admin exists: True
+2024-12-22 15:31:17,362 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:17,395 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:17,417 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:17,522 INFO: Admin exists: True
+2024-12-22 15:31:17,522 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:17,550 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:17,562 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:17] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:31:33,352 INFO: Admin exists: True
+2024-12-22 15:31:33,383 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:31:33,405 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:31:33,421 INFO: 127.0.0.1 - - [22/Dec/2024 15:31:33] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:32:03,045 INFO: Admin exists: True
+2024-12-22 15:32:03,103 INFO: 127.0.0.1 - - [22/Dec/2024 15:32:03] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:32:03,124 INFO: 127.0.0.1 - - [22/Dec/2024 15:32:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:32:03,131 INFO: 127.0.0.1 - - [22/Dec/2024 15:32:03] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:34:05,185 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:05] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:34:05,230 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:05] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:34:05,263 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:05] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:34:12,870 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 15:34:14,430 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 15:34:14,436 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 15:34:14,446 INFO: Loading user with ID: 3
+2024-12-22 15:34:14,459 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 15:34:14,484 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:14] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 15:34:14,557 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:34:14,564 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:14] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 15:34:27,586 INFO: Loading user with ID: 3
+2024-12-22 15:34:27,586 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 15:34:27,590 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 15:34:27,597 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 15:34:27,615 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:27] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:34:27,644 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:27] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:34:27,673 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:27] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:34:29,656 INFO: Admin exists: True
+2024-12-22 15:34:29,666 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:29] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:34:29,710 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:29] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:34:29,722 INFO: 127.0.0.1 - - [22/Dec/2024 15:34:29] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:41:51,248 INFO: Admin exists: True
+2024-12-22 15:41:51,290 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:51] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:41:51,315 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:51] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:41:51,329 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:51] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:41:59,302 INFO: Admin exists: True
+2024-12-22 15:41:59,349 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:59] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:41:59,369 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:59] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:41:59,377 INFO: 127.0.0.1 - - [22/Dec/2024 15:41:59] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:42:05,893 INFO: Admin exists: True
+2024-12-22 15:42:05,931 INFO: 127.0.0.1 - - [22/Dec/2024 15:42:05] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:42:05,955 INFO: 127.0.0.1 - - [22/Dec/2024 15:42:05] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:42:05,964 INFO: 127.0.0.1 - - [22/Dec/2024 15:42:05] "[33mGET /static/images/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:45:24,102 INFO: Admin exists: True
+2024-12-22 15:45:24,178 INFO: 127.0.0.1 - - [22/Dec/2024 15:45:24] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:45:24,203 INFO: 127.0.0.1 - - [22/Dec/2024 15:45:24] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:45:24,247 INFO: 127.0.0.1 - - [22/Dec/2024 15:45:24] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:55,901 INFO: Admin exists: True
+2024-12-22 15:47:55,912 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:55] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:55,950 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:55,961 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:55] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:56,831 INFO: Admin exists: True
+2024-12-22 15:47:56,831 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:56] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:56,862 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:56] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:56,879 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:56] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:56,972 INFO: Admin exists: True
+2024-12-22 15:47:56,972 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:56] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,000 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,012 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,112 INFO: Admin exists: True
+2024-12-22 15:47:57,112 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,137 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,156 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,240 INFO: Admin exists: True
+2024-12-22 15:47:57,248 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,269 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,278 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,388 INFO: Admin exists: True
+2024-12-22 15:47:57,390 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,416 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,437 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,555 INFO: Admin exists: True
+2024-12-22 15:47:57,558 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,588 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,595 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,705 INFO: Admin exists: True
+2024-12-22 15:47:57,708 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:47:57,734 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:47:57,742 INFO: 127.0.0.1 - - [22/Dec/2024 15:47:57] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:24,991 INFO: Admin exists: True
+2024-12-22 15:48:24,993 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:24] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:25,019 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:25,042 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:25,830 INFO: Admin exists: True
+2024-12-22 15:48:25,835 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:25,859 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:25,876 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:25,964 INFO: Admin exists: True
+2024-12-22 15:48:25,964 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:25,995 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,012 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,110 INFO: Admin exists: True
+2024-12-22 15:48:26,120 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:26,152 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,162 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,260 INFO: Admin exists: True
+2024-12-22 15:48:26,260 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:26,288 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,297 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,487 INFO: Admin exists: True
+2024-12-22 15:48:26,487 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:48:26,527 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:48:26,552 INFO: 127.0.0.1 - - [22/Dec/2024 15:48:26] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:33,443 INFO: Admin exists: True
+2024-12-22 15:49:33,459 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:33,481 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:33,492 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:33] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,346 INFO: Admin exists: True
+2024-12-22 15:49:34,349 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:34,370 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,382 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,478 INFO: Admin exists: True
+2024-12-22 15:49:34,480 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:34,504 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,527 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,606 INFO: Admin exists: True
+2024-12-22 15:49:34,606 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:34,630 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,644 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,754 INFO: Admin exists: True
+2024-12-22 15:49:34,758 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:34,781 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,792 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,925 INFO: Admin exists: True
+2024-12-22 15:49:34,933 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:49:34,962 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:49:34,977 INFO: 127.0.0.1 - - [22/Dec/2024 15:49:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:51:23,219 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 15:51:23,219 INFO: Upload directory already exists at static/uploads.
+2024-12-22 15:51:23,248 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 15:51:23,248 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 15:51:23,248 INFO:  * Restarting with stat
+2024-12-22 15:51:24,069 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 15:51:24,070 INFO: Upload directory already exists at static/uploads.
+2024-12-22 15:51:24,091 WARNING:  * Debugger is active!
+2024-12-22 15:51:24,092 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 15:51:29,032 INFO: Redirecting to login page.
+2024-12-22 15:51:29,032 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:29] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 15:51:29,048 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:29] "[33mGET /login/ HTTP/1.1[0m" 404 -
+2024-12-22 15:51:49,093 INFO: Redirecting to login page.
+2024-12-22 15:51:49,098 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:49] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 15:51:49,128 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:49] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:51:49,185 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:49] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:51:49,218 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:49] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:51:51,851 INFO: Admin exists: True
+2024-12-22 15:51:51,862 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:51] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:51:51,887 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:51] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:51:51,937 INFO: 127.0.0.1 - - [22/Dec/2024 15:51:51] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:52:25,460 INFO: Admin exists: True
+2024-12-22 15:52:25,468 INFO: Registering user: Lau, role: admin
+2024-12-22 15:52:25,482 INFO: Validating password strength.
+2024-12-22 15:52:25,492 INFO: Password is strong.
+2024-12-22 15:52:27,103 INFO: User Lau registered successfully.
+2024-12-22 15:52:27,105 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:27] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 15:52:27,115 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:27] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:52:27,167 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:27] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:52:27,202 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:27] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:52:46,734 INFO: Attempting login for user: pamalaurence@gmail.com
+2024-12-22 15:52:46,739 WARNING: Failed login attempt for user: pamalaurence@gmail.com
+2024-12-22 15:52:46,743 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:46] "POST /login HTTP/1.1" 200 -
+2024-12-22 15:52:46,776 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:46] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:52:46,810 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:46] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:52:49,191 INFO: Attempting login for user: 
+2024-12-22 15:52:49,195 WARNING: Failed login attempt for user: 
+2024-12-22 15:52:49,203 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:49] "POST /login HTTP/1.1" 200 -
+2024-12-22 15:52:49,230 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:49] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:52:49,265 INFO: 127.0.0.1 - - [22/Dec/2024 15:52:49] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:53:00,081 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 15:53:01,710 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 15:53:01,714 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 15:53:01,728 INFO: Loading user with ID: 3
+2024-12-22 15:53:01,744 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 15:53:01,809 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:01] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 15:53:01,856 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:53:01,863 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:01] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 15:53:01,882 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:01] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 15:53:21,395 INFO: Loading user with ID: 3
+2024-12-22 15:53:21,395 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 15:53:21,402 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 15:53:21,406 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:21] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 15:53:21,430 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:21] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:53:21,482 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:21] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:53:21,520 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:21] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:53:30,300 INFO: Attempting login for user: laurence@gmail.com
+2024-12-22 15:53:30,310 WARNING: Failed login attempt for user: laurence@gmail.com
+2024-12-22 15:53:30,313 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:30] "POST /login HTTP/1.1" 200 -
+2024-12-22 15:53:30,334 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:30] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:53:30,375 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:30] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:53:42,023 INFO: Attempting login for user: yayaypama@gmail.com
+2024-12-22 15:53:42,027 WARNING: Failed login attempt for user: yayaypama@gmail.com
+2024-12-22 15:53:42,031 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:42] "POST /login HTTP/1.1" 200 -
+2024-12-22 15:53:42,057 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:42] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:53:42,101 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:42] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:53:54,816 INFO: Attempting login for user: Lau
+2024-12-22 15:53:55,293 INFO: Login successful for user: Lau
+2024-12-22 15:53:55,293 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 15:53:55,293 INFO: Loading user with ID: 4
+2024-12-22 15:53:55,306 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 15:53:55,309 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:55] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 15:53:55,338 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:53:55,338 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:55] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 15:53:55,346 INFO: 127.0.0.1 - - [22/Dec/2024 15:53:55] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 15:54:06,824 INFO: Loading user with ID: 4
+2024-12-22 15:54:06,839 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:06] "GET /edit_profile HTTP/1.1" 200 -
+2024-12-22 15:54:06,874 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:54:06,910 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:06] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 15:54:13,970 INFO: Loading user with ID: 4
+2024-12-22 15:54:13,977 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 15:54:13,980 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:13] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 15:54:14,036 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 15:54:14,039 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:14] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 15:54:14,045 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:14] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 15:54:17,834 INFO: Loading user with ID: 4
+2024-12-22 15:54:17,840 INFO: User Lau is logging out.
+2024-12-22 15:54:17,848 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 15:54:17,850 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 15:54:17,864 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:17] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:54:17,903 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:17] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:54:17,938 INFO: 127.0.0.1 - - [22/Dec/2024 15:54:17] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 15:57:23,251 INFO: Admin exists: True
+2024-12-22 15:57:23,253 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:23] "GET /register HTTP/1.1" 200 -
+2024-12-22 15:57:23,296 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:23] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:57:23,301 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:23] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 15:57:33,775 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:33] "GET /login HTTP/1.1" 200 -
+2024-12-22 15:57:33,815 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 15:57:33,855 INFO: 127.0.0.1 - - [22/Dec/2024 15:57:33] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:35,344 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:01:35,360 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:35,418 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:35,850 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:01:35,889 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:35,925 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:35] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,030 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:01:36,048 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,085 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,171 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:01:36,197 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,249 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,337 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:01:36,359 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:36,393 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:36] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:01:37,417 INFO: Admin exists: True
+2024-12-22 16:01:37,426 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:37] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:37,453 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:37,486 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:37] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,372 INFO: Admin exists: True
+2024-12-22 16:01:38,380 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:38,414 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,453 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,548 INFO: Admin exists: True
+2024-12-22 16:01:38,548 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:38,586 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,608 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,685 INFO: Admin exists: True
+2024-12-22 16:01:38,702 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:38,719 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,735 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,852 INFO: Admin exists: True
+2024-12-22 16:01:38,852 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:38,882 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:38,934 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:38] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:39,029 INFO: Admin exists: True
+2024-12-22 16:01:39,029 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:39,055 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:39,093 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:01:39,227 INFO: Admin exists: True
+2024-12-22 16:01:39,231 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:01:39,252 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:01:39,289 INFO: 127.0.0.1 - - [22/Dec/2024 16:01:39] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:07:37,571 INFO: Admin exists: True
+2024-12-22 16:07:37,629 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:07:37,659 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:07:37,782 INFO: Admin exists: True
+2024-12-22 16:07:37,788 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:07:37,807 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:07:37,968 INFO: Admin exists: True
+2024-12-22 16:07:37,971 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:07:37,998 INFO: 127.0.0.1 - - [22/Dec/2024 16:07:37] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:38:51,684 INFO: Admin exists: True
+2024-12-22 16:38:51,686 INFO: 127.0.0.1 - - [22/Dec/2024 16:38:51] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:38:51,702 INFO: 127.0.0.1 - - [22/Dec/2024 16:38:51] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:46:58,264 INFO: Admin exists: True
+2024-12-22 16:46:58,291 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:58] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:46:58,314 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:46:58,803 INFO: Admin exists: True
+2024-12-22 16:46:58,803 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:58] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:46:58,834 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:46:58,991 INFO: Admin exists: True
+2024-12-22 16:46:59,000 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:46:59,018 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:46:59,160 INFO: Admin exists: True
+2024-12-22 16:46:59,160 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:46:59,183 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:46:59,338 INFO: Admin exists: True
+2024-12-22 16:46:59,338 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:46:59,358 INFO: 127.0.0.1 - - [22/Dec/2024 16:46:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:12,828 INFO: Admin exists: True
+2024-12-22 16:47:12,830 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:12] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:12,847 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:13,330 INFO: Admin exists: True
+2024-12-22 16:47:13,332 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:13,348 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:13,496 INFO: Admin exists: True
+2024-12-22 16:47:13,497 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:13,516 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:13,641 INFO: Admin exists: True
+2024-12-22 16:47:13,641 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:13,679 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:13,813 INFO: Admin exists: True
+2024-12-22 16:47:13,813 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:13,838 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:13,979 INFO: Admin exists: True
+2024-12-22 16:47:13,979 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:14,005 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:23,538 INFO: Admin exists: True
+2024-12-22 16:47:23,540 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:23] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:23,560 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:27,765 INFO: Admin exists: True
+2024-12-22 16:47:27,765 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:27] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:27,789 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:33,549 INFO: Admin exists: True
+2024-12-22 16:47:33,549 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:33,568 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:33,922 INFO: Admin exists: True
+2024-12-22 16:47:33,922 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:33,948 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:34,090 INFO: Admin exists: True
+2024-12-22 16:47:34,090 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:34,116 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:34,238 INFO: Admin exists: True
+2024-12-22 16:47:34,238 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:34,265 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:34,422 INFO: Admin exists: True
+2024-12-22 16:47:34,422 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:34,437 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:38,483 INFO: Admin exists: True
+2024-12-22 16:47:38,483 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:38,507 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:38,656 INFO: Admin exists: True
+2024-12-22 16:47:38,657 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:38,673 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:38,816 INFO: Admin exists: True
+2024-12-22 16:47:38,816 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:38,855 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:38,965 INFO: Admin exists: True
+2024-12-22 16:47:38,965 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:38] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:39,000 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:41,522 INFO: Admin exists: True
+2024-12-22 16:47:41,522 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:41] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:41,544 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:41,968 INFO: Admin exists: True
+2024-12-22 16:47:41,970 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:41] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:41,990 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:42,240 INFO: Admin exists: True
+2024-12-22 16:47:42,240 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:42,267 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:42,383 INFO: Admin exists: True
+2024-12-22 16:47:42,383 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:42,423 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:42,550 INFO: Admin exists: True
+2024-12-22 16:47:42,550 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:42,569 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:55,892 INFO: Admin exists: True
+2024-12-22 16:47:55,919 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:55] "GET /register HTTP/1.1" 200 -
+2024-12-22 16:47:55,940 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:47:55,960 INFO: 127.0.0.1 - - [22/Dec/2024 16:47:55] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 16:48:03,873 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:03] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:48:03,905 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:03] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:48:03,920 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:03] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:48:11,437 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 16:48:11,978 WARNING: Failed login attempt for user: mapama@my.cspc.edu.ph
+2024-12-22 16:48:11,981 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:11] "POST /login HTTP/1.1" 200 -
+2024-12-22 16:48:12,003 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:12] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:48:12,030 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:12] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:48:19,380 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 16:48:19,829 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 16:48:19,829 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 16:48:19,850 INFO: Loading user with ID: 3
+2024-12-22 16:48:19,850 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 16:48:19,850 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:19] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 16:48:19,886 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:48:19,892 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:19] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 16:48:19,896 INFO: 127.0.0.1 - - [22/Dec/2024 16:48:19] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 16:50:59,213 INFO: Loading user with ID: 3
+2024-12-22 16:50:59,219 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 16:50:59,223 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 16:50:59,226 INFO: 127.0.0.1 - - [22/Dec/2024 16:50:59] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 16:50:59,241 INFO: 127.0.0.1 - - [22/Dec/2024 16:50:59] "GET /login HTTP/1.1" 200 -
+2024-12-22 16:50:59,303 INFO: 127.0.0.1 - - [22/Dec/2024 16:50:59] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 16:50:59,321 INFO: 127.0.0.1 - - [22/Dec/2024 16:50:59] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 16:52:23,589 INFO: Attempting login for user: Lau
+2024-12-22 16:52:24,081 INFO: Login successful for user: Lau
+2024-12-22 16:52:24,083 INFO: 127.0.0.1 - - [22/Dec/2024 16:52:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 16:52:24,092 INFO: Loading user with ID: 4
+2024-12-22 16:52:24,095 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 16:52:24,097 INFO: 127.0.0.1 - - [22/Dec/2024 16:52:24] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 16:52:24,149 INFO: 127.0.0.1 - - [22/Dec/2024 16:52:24] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 16:52:24,151 INFO: 127.0.0.1 - - [22/Dec/2024 16:52:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 16:52:24,157 INFO: 127.0.0.1 - - [22/Dec/2024 16:52:24] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:01:51,654 INFO: Loading user with ID: 4
+2024-12-22 17:01:51,654 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:01:51,724 INFO: 127.0.0.1 - - [22/Dec/2024 17:01:51] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:01:51,744 INFO: 127.0.0.1 - - [22/Dec/2024 17:01:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:01:51,762 INFO: 127.0.0.1 - - [22/Dec/2024 17:01:51] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:01:51,764 INFO: 127.0.0.1 - - [22/Dec/2024 17:01:51] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:02:05,911 INFO: Loading user with ID: 4
+2024-12-22 17:02:05,914 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:02:05,915 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:05] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:02:05,951 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:02:05,965 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:05] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:02:05,986 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:05] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:02:06,862 INFO: Loading user with ID: 4
+2024-12-22 17:02:06,874 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:02:06,874 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:06] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:02:06,893 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:02:06,913 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:06] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:02:06,914 INFO: 127.0.0.1 - - [22/Dec/2024 17:02:06] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:13,167 INFO: Loading user with ID: 4
+2024-12-22 17:04:13,173 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:04:13,225 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:13] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:04:13,250 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:04:13,275 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:13] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:13,311 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:13] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:31,456 INFO: Loading user with ID: 4
+2024-12-22 17:04:31,460 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:04:31,482 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:31] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:04:31,491 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:04:31,523 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:31] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:31,558 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:31] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:49,692 INFO: Loading user with ID: 4
+2024-12-22 17:04:49,696 INFO: Admin user Lau accessed the dashboard.
+2024-12-22 17:04:49,717 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:49] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:04:49,738 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:49] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:04:49,751 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:49] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:04:49,753 INFO: 127.0.0.1 - - [22/Dec/2024 17:04:49] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:33:42,783 INFO: Loading user with ID: 4
+2024-12-22 17:33:42,794 INFO: User Lau is logging out.
+2024-12-22 17:33:42,794 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 17:33:42,795 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 17:33:42,803 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:42] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:33:42,846 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:42] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:33:42,897 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:42] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:33:46,765 INFO: Admin exists: True
+2024-12-22 17:33:46,770 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:46] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:33:46,802 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:46] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:33:46,814 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:46] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:33:50,970 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:50] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:33:51,001 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:51] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:33:51,036 INFO: 127.0.0.1 - - [22/Dec/2024 17:33:51] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:35:24,327 INFO:  * Detected change in 'c:\\Users\\yayay\\Desktop\\info assurance\\infoassurance3A\\Pama_DeSilva\\app.py', reloading
+2024-12-22 17:35:24,538 INFO:  * Restarting with stat
+2024-12-22 17:35:25,288 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 17:35:25,290 INFO: Upload directory already exists at static/uploads.
+2024-12-22 17:35:25,303 WARNING:  * Debugger is active!
+2024-12-22 17:35:25,310 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 17:35:30,597 INFO:  * Detected change in 'c:\\Users\\yayay\\Desktop\\info assurance\\infoassurance3A\\Pama_DeSilva\\app.py', reloading
+2024-12-22 17:35:30,735 INFO:  * Restarting with stat
+2024-12-22 17:35:31,467 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 17:35:31,473 INFO: Upload directory already exists at static/uploads.
+2024-12-22 17:35:31,490 WARNING:  * Debugger is active!
+2024-12-22 17:35:31,490 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 17:39:41,537 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 17:39:41,539 INFO: Upload directory already exists at static/uploads.
+2024-12-22 17:39:41,561 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 17:39:41,562 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 17:39:41,563 INFO:  * Restarting with stat
+2024-12-22 17:39:42,186 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 17:39:42,188 INFO: Upload directory already exists at static/uploads.
+2024-12-22 17:39:42,199 WARNING:  * Debugger is active!
+2024-12-22 17:39:42,201 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 17:39:45,935 INFO: Redirecting to login page.
+2024-12-22 17:39:45,935 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:45] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 17:39:45,962 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:45] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:39:46,043 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:46] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:39:46,106 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:46] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:39:48,211 INFO: Admin exists: True
+2024-12-22 17:39:48,216 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:48] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:39:48,246 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:48] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:39:48,270 INFO: 127.0.0.1 - - [22/Dec/2024 17:39:48] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:12,495 INFO: Admin exists: True
+2024-12-22 17:40:12,535 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:12] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:12,557 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:12] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:12,569 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:12] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:19,241 INFO: Admin exists: True
+2024-12-22 17:40:19,271 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:19] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:19,292 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:19] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:19,308 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:19] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:25,733 INFO: Admin exists: True
+2024-12-22 17:40:25,769 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:25] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:25,790 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:25] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:25,862 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:25] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:30,375 INFO: Admin exists: True
+2024-12-22 17:40:30,406 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:30] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:30,431 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:30] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:30,446 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:30] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:35,192 INFO: Admin exists: True
+2024-12-22 17:40:35,222 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:35] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:35,246 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:35] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:35,259 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:35] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:40:52,600 INFO: Admin exists: True
+2024-12-22 17:40:52,645 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:52] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:40:52,663 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:52] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:40:52,697 INFO: 127.0.0.1 - - [22/Dec/2024 17:40:52] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:41:06,920 INFO: Admin exists: True
+2024-12-22 17:41:06,947 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:06] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:41:06,969 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:41:06,984 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:06] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:41:16,330 INFO: Admin exists: True
+2024-12-22 17:41:16,357 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:16] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:41:16,391 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:16] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:41:16,404 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:16] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:41:35,960 INFO: Admin exists: True
+2024-12-22 17:41:35,987 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:35] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:41:36,010 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:36] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:41:36,025 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:36] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:41:47,151 INFO: Admin exists: True
+2024-12-22 17:41:47,186 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:47] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:41:47,204 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:47] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:41:47,225 INFO: 127.0.0.1 - - [22/Dec/2024 17:41:47] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:47:27,620 INFO: 127.0.0.1 - - [22/Dec/2024 17:47:27] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:47:27,675 INFO: 127.0.0.1 - - [22/Dec/2024 17:47:27] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:47:27,703 INFO: 127.0.0.1 - - [22/Dec/2024 17:47:27] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:48:28,293 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:48:28,308 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:48:28,347 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:28] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:48:43,616 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:43] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:48:43,631 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:43] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:48:43,662 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:43] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:48:50,654 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:50] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:48:50,677 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:50] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:48:50,696 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:50] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:48:51,897 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:51] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:48:51,916 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:51] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:48:51,947 INFO: 127.0.0.1 - - [22/Dec/2024 17:48:51] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:49:23,592 INFO: Admin exists: True
+2024-12-22 17:49:23,598 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:23] "GET /register HTTP/1.1" 200 -
+2024-12-22 17:49:23,632 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:23] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:49:23,637 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:23] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:49:26,939 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:26] "GET /login HTTP/1.1" 200 -
+2024-12-22 17:49:26,975 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:26] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:49:26,994 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:26] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:49:33,321 INFO: Attempting login for user: Lau
+2024-12-22 17:49:33,931 WARNING: Failed login attempt for user: Lau
+2024-12-22 17:49:33,931 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:33] "POST /login HTTP/1.1" 200 -
+2024-12-22 17:49:33,951 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 17:49:33,984 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:33] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 17:49:42,460 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 17:49:43,039 INFO: Login successful for user: mapama@my.cspc.edu.ph
+2024-12-22 17:49:43,040 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 17:49:43,046 INFO: Loading user with ID: 3
+2024-12-22 17:49:43,051 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:49:43,074 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:43] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:49:43,112 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:49:43,113 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:43] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:49:43,128 INFO: 127.0.0.1 - - [22/Dec/2024 17:49:43] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:50:51,005 INFO: Loading user with ID: 3
+2024-12-22 17:50:51,005 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:50:51,034 INFO: 127.0.0.1 - - [22/Dec/2024 17:50:51] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:50:51,052 INFO: 127.0.0.1 - - [22/Dec/2024 17:50:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:50:51,087 INFO: 127.0.0.1 - - [22/Dec/2024 17:50:51] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:50:51,117 INFO: 127.0.0.1 - - [22/Dec/2024 17:50:51] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:03,582 INFO: Loading user with ID: 3
+2024-12-22 17:51:03,582 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:51:03,639 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:03] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:51:03,672 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:51:03,690 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:03] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:03,724 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:03] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:15,648 INFO: Loading user with ID: 3
+2024-12-22 17:51:15,648 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:51:15,689 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:15] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:51:15,710 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:51:15,724 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:15] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:15,751 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:15] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:49,994 INFO: Loading user with ID: 3
+2024-12-22 17:51:49,994 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:51:50,032 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:50] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:51:50,050 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:51:50,066 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:50] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:50,067 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:50] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:51:50,083 INFO: 127.0.0.1 - - [22/Dec/2024 17:51:50] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:53:22,690 INFO: Loading user with ID: 3
+2024-12-22 17:53:22,690 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:53:22,735 INFO: 127.0.0.1 - - [22/Dec/2024 17:53:22] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:53:22,756 INFO: 127.0.0.1 - - [22/Dec/2024 17:53:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:53:22,765 INFO: 127.0.0.1 - - [22/Dec/2024 17:53:22] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:53:22,774 INFO: 127.0.0.1 - - [22/Dec/2024 17:53:22] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:53:22,806 INFO: 127.0.0.1 - - [22/Dec/2024 17:53:22] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 17:55:14,353 INFO: Loading user with ID: 3
+2024-12-22 17:55:14,353 INFO: Admin user mapama@my.cspc.edu.ph accessed the dashboard.
+2024-12-22 17:55:14,387 INFO: 127.0.0.1 - - [22/Dec/2024 17:55:14] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 17:55:14,409 INFO: 127.0.0.1 - - [22/Dec/2024 17:55:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 17:55:14,425 INFO: 127.0.0.1 - - [22/Dec/2024 17:55:14] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 17:55:14,442 INFO: 127.0.0.1 - - [22/Dec/2024 17:55:14] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 17:55:14,455 INFO: 127.0.0.1 - - [22/Dec/2024 17:55:14] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:03:27,986 INFO: Loading user with ID: 3
+2024-12-22 18:03:27,989 INFO: User mapama@my.cspc.edu.ph is logging out.
+2024-12-22 18:03:27,991 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 18:03:27,995 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 18:03:28,005 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:28] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:03:28,051 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:28] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:03:28,084 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:28] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:03:32,368 INFO: Admin exists: True
+2024-12-22 18:03:32,369 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:32] "GET /register HTTP/1.1" 200 -
+2024-12-22 18:03:32,401 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:32] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:03:32,427 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:32] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:03:33,947 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:33] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:03:33,977 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:33] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:03:33,989 INFO: 127.0.0.1 - - [22/Dec/2024 18:03:33] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:35:56,215 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 18:35:56,220 INFO: Upload directory already exists at static/uploads.
+2024-12-22 18:35:56,271 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-22 18:35:56,275 INFO: [33mPress CTRL+C to quit[0m
+2024-12-22 18:35:56,282 INFO:  * Restarting with stat
+2024-12-22 18:35:57,452 INFO: Initializing database and checking upload directory configuration.
+2024-12-22 18:35:57,458 INFO: Upload directory already exists at static/uploads.
+2024-12-22 18:35:57,479 WARNING:  * Debugger is active!
+2024-12-22 18:35:57,487 INFO:  * Debugger PIN: 408-587-162
+2024-12-22 18:36:04,913 INFO: Redirecting to login page.
+2024-12-22 18:36:04,916 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:04] "[32mGET / HTTP/1.1[0m" 302 -
+2024-12-22 18:36:04,933 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:04] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:36:04,978 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:04] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:36:05,073 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:05] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:36:13,962 INFO: Admin exists: True
+2024-12-22 18:36:13,978 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:13] "GET /register HTTP/1.1" 200 -
+2024-12-22 18:36:14,003 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:14] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:36:14,106 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:14] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:36:55,171 INFO: Admin exists: True
+2024-12-22 18:36:55,181 INFO: Registering user: Yay, role: admin
+2024-12-22 18:36:55,190 INFO: Validating password strength.
+2024-12-22 18:36:55,199 WARNING: Password is weak. Ensure it meets all strength requirements.
+2024-12-22 18:36:55,203 WARNING: Password does not meet strength requirements.
+2024-12-22 18:36:55,206 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:55] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 18:36:55,230 INFO: Admin exists: True
+2024-12-22 18:36:55,231 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:55] "GET /register HTTP/1.1" 200 -
+2024-12-22 18:36:55,270 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:36:55,304 INFO: 127.0.0.1 - - [22/Dec/2024 18:36:55] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:37:04,108 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:04] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:37:04,165 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:04] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:37:04,217 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:04] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:37:18,127 INFO: Attempting login for user: Yay
+2024-12-22 18:37:18,135 WARNING: Failed login attempt for user: Yay
+2024-12-22 18:37:18,143 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:18] "POST /login HTTP/1.1" 200 -
+2024-12-22 18:37:18,181 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:18] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:37:18,275 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:18] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:37:32,191 INFO: Attempting login for user: yayaypama@gmail.com
+2024-12-22 18:37:32,198 WARNING: Failed login attempt for user: yayaypama@gmail.com
+2024-12-22 18:37:32,201 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:32] "POST /login HTTP/1.1" 200 -
+2024-12-22 18:37:32,231 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:32] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:37:32,306 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:32] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:37:33,952 INFO: Admin exists: True
+2024-12-22 18:37:33,954 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:33] "GET /register HTTP/1.1" 200 -
+2024-12-22 18:37:34,004 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:34] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:37:34,013 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:37:54,393 INFO: Admin exists: True
+2024-12-22 18:37:54,395 INFO: Registering user: Yay, role: user
+2024-12-22 18:37:54,399 INFO: Validating password strength.
+2024-12-22 18:37:54,399 INFO: Password is strong.
+2024-12-22 18:37:55,335 INFO: User Yay registered successfully.
+2024-12-22 18:37:55,341 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:55] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 18:37:55,360 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:55] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:37:55,425 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:55] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:37:55,510 INFO: 127.0.0.1 - - [22/Dec/2024 18:37:55] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:38:05,938 INFO: Attempting login for user: Yay
+2024-12-22 18:38:06,641 INFO: Login successful for user: Yay
+2024-12-22 18:38:06,646 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 18:38:06,655 INFO: Loading user with ID: 5
+2024-12-22 18:38:06,659 INFO: User Yay accessed the dashboard.
+2024-12-22 18:38:06,693 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:06] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 18:38:06,764 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:38:06,789 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:06] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:38:06,876 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:06] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:38:59,415 INFO: Loading user with ID: 5
+2024-12-22 18:38:59,427 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:59] "GET /edit_profile HTTP/1.1" 200 -
+2024-12-22 18:38:59,538 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:59] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:38:59,571 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:38:59,641 INFO: 127.0.0.1 - - [22/Dec/2024 18:38:59] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:39:03,903 INFO: Loading user with ID: 5
+2024-12-22 18:39:03,906 INFO: User Yay is editing their profile.
+2024-12-22 18:39:03,915 INFO: Profile changes saved successfully for user Yay.
+2024-12-22 18:39:03,917 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:03] "[32mPOST /edit_profile HTTP/1.1[0m" 302 -
+2024-12-22 18:39:03,925 INFO: Loading user with ID: 5
+2024-12-22 18:39:03,928 INFO: User Yay accessed the dashboard.
+2024-12-22 18:39:03,929 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:03] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 18:39:03,986 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:39:03,994 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:03] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:39:04,070 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:04] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:39:06,678 INFO: Loading user with ID: 5
+2024-12-22 18:39:06,681 INFO: User Yay is logging out.
+2024-12-22 18:39:06,685 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 18:39:06,687 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 18:39:06,734 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:06] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:39:06,795 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:06] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:39:06,849 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:06] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:39:08,880 INFO: Admin exists: True
+2024-12-22 18:39:08,884 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:08] "GET /register HTTP/1.1" 200 -
+2024-12-22 18:39:08,953 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:08] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:39:08,978 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:08] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:39:42,553 INFO: Admin exists: True
+2024-12-22 18:39:42,554 INFO: Registering user: Liam, role: admin
+2024-12-22 18:39:42,556 INFO: Validating password strength.
+2024-12-22 18:39:42,556 INFO: Password is strong.
+2024-12-22 18:39:43,463 INFO: User Liam registered successfully.
+2024-12-22 18:39:43,465 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:43] "[32mPOST /register HTTP/1.1[0m" 302 -
+2024-12-22 18:39:43,480 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:43] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:39:43,565 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:43] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:39:43,627 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:43] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:39:53,796 INFO: Attempting login for user: Liam
+2024-12-22 18:39:54,650 INFO: Login successful for user: Liam
+2024-12-22 18:39:54,666 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-12-22 18:39:54,682 INFO: Loading user with ID: 6
+2024-12-22 18:39:54,683 INFO: Admin user Liam accessed the dashboard.
+2024-12-22 18:39:54,689 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 18:39:54,781 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:39:54,783 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:39:54,787 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "[33mGET /static/uploads/36.png HTTP/1.1[0m" 404 -
+2024-12-22 18:39:54,853 INFO: 127.0.0.1 - - [22/Dec/2024 18:39:54] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:40:17,006 INFO: Loading user with ID: 6
+2024-12-22 18:40:17,016 INFO: Admin Liam accessed 'delete_user' for user ID 3 (username: mapama@my.cspc.edu.ph).
+2024-12-22 18:40:17,028 INFO: User ID 3 (username: mapama@my.cspc.edu.ph) was deleted by admin Liam.
+2024-12-22 18:40:17,029 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:17] "[32mGET /admin/delete_user/3 HTTP/1.1[0m" 302 -
+2024-12-22 18:40:17,051 INFO: Loading user with ID: 6
+2024-12-22 18:40:17,054 INFO: Admin user Liam accessed the dashboard.
+2024-12-22 18:40:17,060 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:17] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 18:40:17,148 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:40:17,219 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:17] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:40:17,244 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:17] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:40:28,182 INFO: Loading user with ID: 6
+2024-12-22 18:40:28,191 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:28] "GET /edit_profile HTTP/1.1" 200 -
+2024-12-22 18:40:28,233 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:40:28,270 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:28] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:40:28,358 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:28] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:40:30,923 INFO: Loading user with ID: 6
+2024-12-22 18:40:30,932 INFO: Admin user Liam accessed the dashboard.
+2024-12-22 18:40:30,939 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:30] "GET /dashboard HTTP/1.1" 200 -
+2024-12-22 18:40:31,001 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:31] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-12-22 18:40:31,053 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:31] "[33mGET /static/uploads/default.png HTTP/1.1[0m" 404 -
+2024-12-22 18:40:31,165 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:31] "[33mGET /static/uploads/Kodama.jpg HTTP/1.1[0m" 404 -
+2024-12-22 18:40:34,365 INFO: Loading user with ID: 6
+2024-12-22 18:40:34,380 INFO: User Liam is logging out.
+2024-12-22 18:40:34,382 INFO: An unauthenticated user has successfully logged out.
+2024-12-22 18:40:34,383 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-12-22 18:40:34,392 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:34] "GET /login HTTP/1.1" 200 -
+2024-12-22 18:40:34,453 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:34] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:40:34,520 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:34] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
+2024-12-22 18:40:41,909 INFO: Attempting login for user: mapama@my.cspc.edu.ph
+2024-12-22 18:40:41,912 WARNING: Failed login attempt for user: mapama@my.cspc.edu.ph
+2024-12-22 18:40:41,916 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:41] "POST /login HTTP/1.1" 200 -
+2024-12-22 18:40:41,962 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:41] "[33mGET /static/css/view.css HTTP/1.1[0m" 404 -
+2024-12-22 18:40:42,041 INFO: 127.0.0.1 - - [22/Dec/2024 18:40:42] "[33mGET /static/uploads/Mononoke.gif HTTP/1.1[0m" 404 -
